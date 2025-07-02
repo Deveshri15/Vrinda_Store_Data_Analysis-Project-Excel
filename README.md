@@ -1,4 +1,4 @@
-# Vrinda Store Data Analysis Project-Excel
+# Vrinda Store Data Analysis Dashboard-Excel
 
 Questions:-
 compare the sales and oreders using single chart.
